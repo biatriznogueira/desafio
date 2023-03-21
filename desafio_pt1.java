@@ -83,6 +83,7 @@ public class desafio_pt1 {
 
                     for (int i = 0; i < 20; i++) {
                         if (nome[i] != null) {
+                                                          //bilhete[i]           
                             System.out.println(" Nome: " + nome[i] + "    " + "Telefone: " + telefone[i] + "    ");
 
 
